@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Daniel!
-- 👀 I’m interested in becoming a fullstack developer.
-- 🌱 I’m currently learning HTML, CSS & JS.
+- Hi! I’m Daniel!
+- I'm a data analyst from the PNW.
 
 
 <!---
